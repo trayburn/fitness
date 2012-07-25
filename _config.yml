@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://trayburn.github.com/fitness
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://timrayburn.net/fitness
+title: My Journey To Fitness
+subtitle: Creating a smaller me, one workout at a time.
+author: Tim Rayburn
 simple_search: http://google.com/search
-description:
+description: 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
