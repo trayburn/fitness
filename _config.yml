@@ -22,6 +22,13 @@ subscribe_email:
 email:
 
 # ----------------------- #
+#    Front Page Control   #
+# ----------------------- #
+
+front_page_categories: [foodlog] # A list of categories for the front page
+front_page_categories_op : 'hide' # Whether to show or hide the list of categories from front_page_categories
+
+# ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
