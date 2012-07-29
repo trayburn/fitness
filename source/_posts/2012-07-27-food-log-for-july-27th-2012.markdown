@@ -10,6 +10,6 @@ categories: foodlog
 * Breakfast - Two large bananas, 24oz of Applesauce
 * Snack - 1 cooked chicken breast
 * Lunch - Bowl of chicken salad with walnuts, grapes, and homemade mayonaise from Kate.
-* Dinner - 
+* Dinner - Evening meal with friends, burger, two sliced tomatoes, sliced vegetables, salad with homemade salsa as dressing.
 
 
