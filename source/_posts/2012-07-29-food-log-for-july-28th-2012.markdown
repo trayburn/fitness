@@ -3,7 +3,7 @@ layout: post
 title: "Food Log for July 28th 2012"
 date: 2012-07-29 18:28
 comments: true
-categories: 
+categories: foodlog
 ---
 
 * Workout - None, worn out from the previous workouts.  Shame.

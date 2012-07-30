@@ -3,9 +3,9 @@ layout: post
 title: "Food Log for July 29th 2012"
 date: 2012-07-29 18:33
 comments: true
-categories: 
+categories: foodlog
 ---
 
 * Breakfast - Two hard boiled eggs
 * Lunch - Three spinach chips, smoked salmon, and one raw tomatoe.
-* Dinner - Salmon fillet
+* Dinner - Salmon fillet, fennel steaks and steamed fennel, lettuce with balsamic vinegar, and large bowl of fruit.
