@@ -7,3 +7,4 @@ categories: foodlog
 ---
 
 * Workout - 9 minutes straight on treadmill, 18 minute break, 5 minutes on treadmill, 5 minute break, 1 hour of backstroke laps in the pool.
+* Breakfast - 2 large bananas, 12 chicken strips.
