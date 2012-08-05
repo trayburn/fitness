@@ -8,6 +8,6 @@ categories: foodlog
 
 * Workout - None, really happy for the weekend rest.  Hopefully my back will forgive me by Monday.
 * Breakfast - 2 bananas during the apprentice session.
-* Lunch - 
-* Dinner - 
+* Lunch - Eat out a Red Robin, bunless double burger, add egg, avocado, grilled mushrooms, and grilled onions.
+* Dinner - boneless pork chops and two small bananas.
 
