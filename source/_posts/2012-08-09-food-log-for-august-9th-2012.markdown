@@ -9,5 +9,5 @@ categories: foodlog
 * Workout - 5 minutes on the treadmill, 20 minutes working arms with 5lb weights.  45 minutes of backstroke.
 * Breakfast - 1 cup of leftover chicken and egg salad from last night, large bowl of cherries.
 * Lunch - 1 cup of leftover chicken and egg salad from last night, large bowl of cherries.
-* Snack - Cherry larabar to make it through my user group.
+* Snack - Cherry larabar and Mint Jocolat to make it through my user group.
 * Dinner - 
